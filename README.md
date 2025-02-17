@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6ZHtfd4V)
 # template-projeto-analex-bcc5003
-Este repositório contém o código inicial de referência para o desenvolvimento da fase de Análise Léxica do Projeto do Compilador para a linguagem TPP.
+Este repositório contém o código inicial de referência para o desenvolvimento da fase de Análise Léxica a linguagem C-.
 
 # Análise Léxica
 
@@ -133,6 +133,9 @@ tpplex_test.py::test_037 PASSED                                                 
 ======================================= 37 passed in 1.74s =======================================
 $
 ```
+
+## Observação
+Alguns testes estava com faltas de simbolos e dando erro na saída, tais testes nao foram atualizados nos arquivos do github para ocorrer a comparação
 
 ## Leitura Recomendada
 
