@@ -11,13 +11,25 @@ global check_key
 moore = Moore(
     # Estados
     ['q0', 'intI', 'intN', 'intT', 'int', 'elseE', 'elseL', 'elseS', 'elseE2', 'else', 
-     'voidV', 'voidO', 'voidI', 'voidD', 'void', 'returnR', 'returnE', 'returnT', 'return', 
-     'floatF', 'floatL', 'floatO', 'floatT', 'float', 'mais', 'menos', 'vezes', 'dividir', 
-     'menor', 'menorIgual', 'maior', 'maiorIgual', 'igual', 'diferente', 'parentesesEsquerda', 
-     'parentesesDireita', 'colchetesEsquerda', 'colchetesDireita', 'chavesEsquerda', 
-     'chavesDireita', 'atribuicao', 'pontoVirgula', 'virgula','number','idMais','idMenos','idDividir',
-     'idMaior','idMenor','idEspaco','idChaveEsquerda','idChaveDireita','idcolcheteDireita','idVezes',
-     'idVirgula','idPontoVirgula','igualIntermed'],
+    'voidV', 'voidO', 'voidI', 'voidD', 'void', 'returnR', 'returnE', 'returnT', 'return', 
+    'floatF', 'floatL', 'floatO', 'floatA', 'floatT', 'float', 'mais', 'menos', 'vezes', 
+    'dividir', 'menor', 'menorIgual', 'maior', 'maiorIgual', 'igual', 'diferente', 'parentesesEsquerda', 
+    'parentesesDireita', 'colcheteEsquerda', 'colcheteDireita', 'chaveEsquerda', 'chaveDireita', 
+    'atribuicao', 'pontoVirgula', 'virgula', 'number', 'idMais', 'idMenos', 'idVezes', 'idDividir', 
+    'idMaior', 'idMenor', 'idEspaco', 'idChaveEsquerda', 'idChaveDireita', 'idcolcheteDireita', 
+    'idVirgula', 'idPontoVirgula', 'igualIntermed', 'idEqual', 'igualNumber', 'idNumber', 
+    'atribuicaoNumber', 'atribuicaoId', 'idParentesesEsquerda', 'idVirgula', 'idPontoVirgula', 
+    'idChaveDireita', 'idParentesesDireita', 'idChaveEsquerda', 'idIgual','idDiferenteIgual', 
+    'idDiferente','idIgualMenos', 'idIgualVezes', 'idIgualDividir', 'idIgualMenor', 'idIgualMaior', 
+    'idIgualParentesesEsquerda', 'idIgualParentesesDireita', 'idIgualColcheteEsquerda', 
+    'idIgualColcheteDireita', 'idIgualChaveEsquerda', 'idIgualChaveDireita', 'idIgualPontoVirgula', 
+    'idIgualVirgula', 'idIgualPontoVirgula', 'idDiferenteIgual', 'voidV', 'voidO', 'voidI', 'voidD', 
+    'void', 'returnR', 'returnE', 'returnT', 'returnU', 'returnR2', 'returnN', 'floatF', 'floatL', 
+    'floatO', 'floatA', 'floatT', 'whileW', 'whileH', 'whileI', 'whileL', 'whileE', 'idMais', 'idMenos', 
+    'idDividir', 'idMenor', 'idMaior', 'idEspaco', 'idPontoVirgula', 'idVirgula', 'idMais', 'idMenos', 
+    'idVezes', 'idDividir', 'idMaior', 'idMenor', 'idChaveEsquerda', 'idChaveDireita', 'idVirgula', 
+    'idColcheteDireita', 'idEspaco'],
+
 
     # Alfabeto
   # Alfabeto
