@@ -2955,7 +2955,7 @@ moore = Moore(
         },
     },
 
-    'q0',  # Estado inicial
+    'q0',   # Estado inicial
 
     # Saídas para os estados finais
     {
